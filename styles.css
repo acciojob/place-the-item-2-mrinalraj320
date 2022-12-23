@@ -2,9 +2,7 @@
 /* Your CSS Code here. */
 .holder{
     display: flex;
-    flex-direction: row;  
-    justify-content: center;
-
+    align-items: center;
     }
     .item-1{
         width: 100px;
